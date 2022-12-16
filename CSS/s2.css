@@ -1,0 +1,12 @@
+body{
+    background-color:lavender;
+    color: midnightblue;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer{
+    text-align: center;
+    background-color: aliceblue;
+}
+

@@ -1,0 +1,38 @@
+body{
+    background-color:lavender;
+    color: midnightblue;
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header {background: rgb(247,249,248);
+    color: white;
+    text-decoration-line: underline;
+    font-size: 56px;
+
+}
+footer{
+    text-align: center;
+    background-color:black;
+    color:white;
+}
+
+h1 {
+    background: rgb(90, 84, 127);
+    color: white;
+    text-decoration-line: underline;
+}
+.box_1{
+height: 50%;
+width: 50%;
+margin: 10%;
+padding: 10%;
+background: rgb(90, 84, 127);
+}
+
+h2,
+h3,
+h4 {
+    color: darkred;
+    text-decoration-line: underline;
+}

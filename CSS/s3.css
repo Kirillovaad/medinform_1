@@ -1,0 +1,16 @@
+body{
+    background-color:lavender;
+    color: midnightblue;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer{
+    text-align: right;
+    background-color: aliceblue;
+}
+p{
+    text-align: right;
+    text-indent: 8ch;
+}
+
