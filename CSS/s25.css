@@ -8,7 +8,8 @@ body{
 header {background: rgb(247,249,248);
     color: white;
     text-decoration-line: underline;
-    font-size: 56px;
+    font-size: 70px;
+    
 
 }
 footer{
@@ -18,9 +19,12 @@ footer{
 }
 
 h1 {
-    background: rgb(90, 84, 127);
-    color: white;
-    text-decoration-line: underline;
+    
+    color: white);
+    font-size: 250px;
+    font-family: 'Brush Script MT', 'Brush Script Std';
+
+
 }
 .box_1{
 height: 50%;
@@ -35,4 +39,15 @@ h3,
 h4 {
     color: darkred;
     text-decoration-line: underline;
+}
+.container{
+position: relative;
+text-align: center;
+color: rgb(247,249,248)
+}
+.centered {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
