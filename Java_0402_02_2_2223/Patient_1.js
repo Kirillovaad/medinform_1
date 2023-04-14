@@ -3,7 +3,7 @@ class Patient {
         this.F = f;
         this.I = i;
         this.O = o;
-        this.D = new Date(d);
+        this.Y = new Date(d);
         this.S = s;
         this.SH = sh;
 
@@ -12,7 +12,7 @@ class Patient {
         document.getElementById("F").textContent = this.F;
         document.getElementById("I").textContent = this.I;
         document.getElementById("O").textContent = this.O;
-        document.getElementById("Y").textContent = this.D.getFullYear();
+        document.getElementById("Y").textContent = this.Y.getFullYear();
         document.getElementById("S").textContent = this.S;
         document.getElementById("SH").textContent = this.SH;
 
